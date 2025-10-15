@@ -1,0 +1,20 @@
+Purpose:
+ShareGuard helps protect image data, making image sharing simple and secure. No registration, no uploads, no internet required. Everything works offline, locally, and privately.
+
+Features
+ - Protect image metadata, text, and faces before sharing
+ - Automatic remove hidden metadata such as device, camera, GPS, and timestamps
+ - Automatic detection of text and face areas
+ - Apply color or mosaic-style masks to text and faces
+ - Real-time, interactive mask editing — what you see is what you get
+ - Local processing — nothing leaves your device
+ - Simple, secure export options
+  
+
+Technical Specifications
+ - Requires iOS 16, macOS 12 or later.
+ - Works offline with no need for network access, ensuring complete data privacy.
+
+ - Contact
+ - Have questions or need support?
+ - Feel free to reach out to danjian42@gmail.com
